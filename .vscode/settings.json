@@ -1,5 +1,5 @@
 {
-  "editor.fontFamily": "D2Coding ligature, Fira Code, D2Coding, Hack, monospace",
+  "editor.fontFamily": "Hack FC Ligatured, Liga SFMono Nerd Font, D2Coding ligature, Fira Code, D2Coding, Hack, monospace",
   "editor.fontLigatures": true,
   "editor.fontSize": 16,
   "editor.fontWeight": "400"
